@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592062809 source:f:\program files\snakefinal\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
